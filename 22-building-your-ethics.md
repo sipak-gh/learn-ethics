@@ -4,8 +4,8 @@ This course began with a shepherd who found a ring that made him invisible, and 
 
 ## Required reading
 
-- William James, "The Moral Philosopher and the Moral Life" (1891), in *The Will to Believe and Other Essays in Popular Philosophy* (1897): [readings/james-will-to-believe-pg26659.epub](readings/james-will-to-believe-pg26659.epub). The best short argument that ethics is never finished.
-- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907), Book III, chapter XIII ("Philosophical Intuitionism") and the Concluding Chapter: [readings/sidgwick-methods-of-ethics-pg46743.epub](readings/sidgwick-methods-of-ethics-pg46743.epub).
+- William James, "The Moral Philosopher and the Moral Life" (1891), in *The Will to Believe and Other Essays in Popular Philosophy* (1897): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fjames-will-to-believe-pg26659.epub) [File](readings/james-will-to-believe-pg26659.epub). The best short argument that ethics is never finished.
+- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907), Book III, chapter XIII ("Philosophical Intuitionism") and the Concluding Chapter: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsidgwick-methods-of-ethics-pg46743.epub) [File](readings/sidgwick-methods-of-ethics-pg46743.epub).
 - Derek Parfit, *On What Matters*, vol. 1 (Oxford University Press, 2011), the introduction and Part Three, where the "Triple Theory" is stated **(procure yourself)**.
 - William MacAskill, Krister Bykvist and Toby Ord, *Moral Uncertainty* (Oxford University Press, 2020), introduction and chapters 1–2; open access **(procure yourself)**.
 - Bernard Williams, *Ethics and the Limits of Philosophy* (Fontana, 1985; Routledge Classics, 2011), chapters 1 and 8–10 **(procure yourself)**.
@@ -14,11 +14,11 @@ Further reading:
 
 - Susan Wolf, "Moral Saints," *Journal of Philosophy* 79 (1982) **(procure yourself)**.
 - W. D. Ross, *The Right and the Good* (Oxford University Press, 1930), chapter 2 **(procure yourself)**.
-- Aristotle, *Nicomachean Ethics*, tr. D. P. Chase: [readings/aristotle-nicomachean-ethics-pg8438.epub](readings/aristotle-nicomachean-ethics-pg8438.epub). Book II, on habituation.
-- Benjamin Franklin, *Autobiography*: [readings/franklin-autobiography-pg148.epub](readings/franklin-autobiography-pg148.epub). The section on the "bold and arduous project of arriving at moral perfection."
-- Marcus Aurelius, *Meditations*, tr. Meric Casaubon: [readings/marcus-aurelius-meditations-pg2680.epub](readings/marcus-aurelius-meditations-pg2680.epub). Book X.
-- Confucius, *The Analects*, tr. James Legge: [readings/confucius-analects-pg3330.epub](readings/confucius-analects-pg3330.epub). Book II.
-- Plato, *Apology*, tr. Benjamin Jowett: [readings/plato-apology-pg1656.epub](readings/plato-apology-pg1656.epub).
+- Aristotle, *Nicomachean Ethics*, tr. D. P. Chase: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faristotle-nicomachean-ethics-pg8438.epub) [File](readings/aristotle-nicomachean-ethics-pg8438.epub). Book II, on habituation.
+- Benjamin Franklin, *Autobiography*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Ffranklin-autobiography-pg148.epub) [File](readings/franklin-autobiography-pg148.epub). The section on the "bold and arduous project of arriving at moral perfection."
+- Marcus Aurelius, *Meditations*, tr. Meric Casaubon: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmarcus-aurelius-meditations-pg2680.epub) [File](readings/marcus-aurelius-meditations-pg2680.epub). Book X.
+- Confucius, *The Analects*, tr. James Legge: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fconfucius-analects-pg3330.epub) [File](readings/confucius-analects-pg3330.epub). Book II.
+- Plato, *Apology*, tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-apology-pg1656.epub) [File](readings/plato-apology-pg1656.epub).
 - The capstones of the companion courses: [learn-stoicism, Chapter 16 — Living a Stoic Life](../learn-stoicism/16-living-a-stoic-life.md); [learn-nihilism, Chapter 15 — Beyond Nihilism](../learn-nihilism/15-beyond-nihilism.md); [learn-philosophy, Chapter 24 — Building a Philosophy of Life](../learn-philosophy/24-building-a-philosophy-of-life.md).
 
 ## Looking back: the map

@@ -4,16 +4,16 @@ Around the same centuries that Socrates questioned Athenians in the marketplace,
 
 ## Required reading
 
-- Confucius, *The Analects*, Books I, II, IV, XII, XV, and XVII, tr. James Legge: [readings/confucius-analects-pg3330.epub](readings/confucius-analects-pg3330.epub).
-- Mencius, *The Sayings of Mencius*, Book I, Part I (especially the ox and the bell, 1A7), tr. James Legge, in Epiphanius Wilson, ed., *Chinese Literature*: [readings/wilson-chinese-literature-pg10056.epub](readings/wilson-chinese-literature-pg10056.epub).
-- Laozi, *The Tao Teh King*, chapters 8, 18, 19, 38, 57, and 63, tr. James Legge: [readings/laozi-tao-teh-king-legge-pg216.epub](readings/laozi-tao-teh-king-legge-pg216.epub).
-- *The Dhammapada*, chapters I, X, XIV, and XVII, tr. F. Max Müller: [readings/dhammapada-muller-pg2017.epub](readings/dhammapada-muller-pg2017.epub).
+- Confucius, *The Analects*, Books I, II, IV, XII, XV, and XVII, tr. James Legge: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fconfucius-analects-pg3330.epub) [File](readings/confucius-analects-pg3330.epub).
+- Mencius, *The Sayings of Mencius*, Book I, Part I (especially the ox and the bell, 1A7), tr. James Legge, in Epiphanius Wilson, ed., *Chinese Literature*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fwilson-chinese-literature-pg10056.epub) [File](readings/wilson-chinese-literature-pg10056.epub).
+- Laozi, *The Tao Teh King*, chapters 8, 18, 19, 38, 57, and 63, tr. James Legge: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flaozi-tao-teh-king-legge-pg216.epub) [File](readings/laozi-tao-teh-king-legge-pg216.epub).
+- *The Dhammapada*, chapters I, X, XIV, and XVII, tr. F. Max Müller: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdhammapada-muller-pg2017.epub) [File](readings/dhammapada-muller-pg2017.epub).
 - Philip J. Ivanhoe and Bryan W. Van Norden, eds., *Readings in Classical Chinese Philosophy*, 2nd ed. (Hackett, 2005): *Mozi*, "Impartial Caring" and "Against Offensive Warfare"; *Mencius* 2A6 and 6A1–8; *Xunzi*, "Human Nature Is Bad" **(procure yourself)**.
 - Thaddeus Metz, "Toward an African Moral Theory," *Journal of Political Philosophy* 15, no. 3 (2007): 321–341 **(procure yourself)**.
 
 Further reading:
 
-- Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer*, chapters II, III, and XVIII, tr. Herbert A. Giles: [readings/zhuangzi-chuang-tzu-giles-pg59709.epub](readings/zhuangzi-chuang-tzu-giles-pg59709.epub).
+- Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer*, chapters II, III, and XVIII, tr. Herbert A. Giles: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fzhuangzi-chuang-tzu-giles-pg59709.epub) [File](readings/zhuangzi-chuang-tzu-giles-pg59709.epub).
 - Damien Keown, *Buddhist Ethics: A Very Short Introduction* (Oxford, 2005) **(procure yourself)**.
 - Charles Goodman, *Consequences of Compassion: An Interpretation and Defense of Buddhist Ethics* (Oxford, 2009) **(procure yourself)**.
 - Kwame Gyekye, *Tradition and Modernity: Philosophical Reflections on the African Experience* (Oxford, 1997), ch. 2 **(procure yourself)**.

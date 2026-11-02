@@ -4,16 +4,16 @@ Every theory in the last six chapters takes morality for granted and asks how to
 
 ## Required reading
 
-- Friedrich Nietzsche, *The Genealogy of Morals* (1887), Preface and all three essays, tr. Horace B. Samuel: [readings/nietzsche-genealogy-of-morals-pg52319.epub](readings/nietzsche-genealogy-of-morals-pg52319.epub).
-- Friedrich Nietzsche, *Beyond Good and Evil* (1886), Part V ("The Natural History of Morals") and §§221, 225, 228, 260, 287, tr. Helen Zimmern: [readings/nietzsche-beyond-good-and-evil-pg4363.epub](readings/nietzsche-beyond-good-and-evil-pg4363.epub).
-- Friedrich Nietzsche, *Twilight of the Idols* (1889), "Morality as the Enemy of Nature" and "The Four Great Errors," tr. Anthony M. Ludovici: [readings/nietzsche-twilight-of-the-idols-pg52263.epub](readings/nietzsche-twilight-of-the-idols-pg52263.epub).
+- Friedrich Nietzsche, *The Genealogy of Morals* (1887), Preface and all three essays, tr. Horace B. Samuel: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-genealogy-of-morals-pg52319.epub) [File](readings/nietzsche-genealogy-of-morals-pg52319.epub).
+- Friedrich Nietzsche, *Beyond Good and Evil* (1886), Part V ("The Natural History of Morals") and §§221, 225, 228, 260, 287, tr. Helen Zimmern: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-beyond-good-and-evil-pg4363.epub) [File](readings/nietzsche-beyond-good-and-evil-pg4363.epub).
+- Friedrich Nietzsche, *Twilight of the Idols* (1889), "Morality as the Enemy of Nature" and "The Four Great Errors," tr. Anthony M. Ludovici: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-twilight-of-the-idols-pg52263.epub) [File](readings/nietzsche-twilight-of-the-idols-pg52263.epub).
 - Brian Leiter, *Nietzsche on Morality* (Routledge, 2002; 2nd ed. 2015), chapters 1 and 4 **(procure yourself)**.
 
 Further reading:
 
-- Friedrich Nietzsche, *The Joyful Wisdom* (*The Gay Science*, 1882/1887), §335, tr. Thomas Common: [readings/nietzsche-joyful-wisdom-pg52881.epub](readings/nietzsche-joyful-wisdom-pg52881.epub).
-- Friedrich Nietzsche, *Thus Spake Zarathustra* (1883–85), Zarathustra's Prologue §§3–5 (the overman and the "last man"), tr. Thomas Common: [readings/nietzsche-thus-spake-zarathustra-pg1998.epub](readings/nietzsche-thus-spake-zarathustra-pg1998.epub).
-- Arthur Schopenhauer, *The Basis of Morality* (1840), Part III, tr. A. B. Bullock: [readings/schopenhauer-basis-of-morality-pg44929.epub](readings/schopenhauer-basis-of-morality-pg44929.epub). The ethics of compassion that Nietzsche set out to overturn.
+- Friedrich Nietzsche, *The Joyful Wisdom* (*The Gay Science*, 1882/1887), §335, tr. Thomas Common: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-joyful-wisdom-pg52881.epub) [File](readings/nietzsche-joyful-wisdom-pg52881.epub).
+- Friedrich Nietzsche, *Thus Spake Zarathustra* (1883–85), Zarathustra's Prologue §§3–5 (the overman and the "last man"), tr. Thomas Common: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-thus-spake-zarathustra-pg1998.epub) [File](readings/nietzsche-thus-spake-zarathustra-pg1998.epub).
+- Arthur Schopenhauer, *The Basis of Morality* (1840), Part III, tr. A. B. Bullock: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fschopenhauer-basis-of-morality-pg44929.epub) [File](readings/schopenhauer-basis-of-morality-pg44929.epub). The ethics of compassion that Nietzsche set out to overturn.
 - Philippa Foot, "Nietzsche's Immoralism," *New York Review of Books* (June 13, 1991); reprinted in *Moral Dilemmas* (Oxford, 2002) **(procure yourself)**.
 - Bernard Williams, *Truth and Truthfulness: An Essay in Genealogy* (Princeton, 2002), chapters 1–2 **(procure yourself)**.
 - Max Scheler, *Ressentiment* (1912; tr. L. B. Coser and W. W. Holdheim, Marquette, 1994) **(procure yourself)**.

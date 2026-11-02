@@ -8,107 +8,107 @@ All 83 are Project Gutenberg editions; [readings/README.md](readings/README.md) 
 
 **Foundations (Chapters 1–4)**
 
-- [Aristotle, *The Nicomachean Ethics*](readings/aristotle-nicomachean-ethics-pg8438.epub), tr. D. P. Chase (Everyman ed., intro. J. A. Smith)
-- [David Hume, *An Enquiry Concerning the Principles of Morals*](readings/hume-enquiry-principles-of-morals-pg4320.epub)
-- [Henry Sidgwick, *The Methods of Ethics* (7th ed.)](readings/sidgwick-methods-of-ethics-pg46743.epub)
-- [Herodotus, *The History of Herodotus, Volume 1*](readings/herodotus-history-vol1-pg2707.epub), tr. G. C. Macaulay
-- [Plato, *Apology*](readings/plato-apology-pg1656.epub), tr. Benjamin Jowett
-- [Plato, *The Republic*](readings/plato-republic-pg1497.epub), tr. Benjamin Jowett
-- [Charles Darwin, *The Descent of Man, and Selection in Relation to Sex* (2nd ed.)](readings/darwin-descent-of-man-pg2300.epub)
-- [John Stuart Mill, *On Liberty*](readings/mill-on-liberty-pg34901.epub)
-- [Plato, *Crito*](readings/plato-crito-pg1657.epub), tr. Benjamin Jowett
-- [Plato, *Euthyphro*](readings/plato-euthyphro-pg1642.epub), tr. Benjamin Jowett
-- [Thomas Aquinas, *Summa Theologica, Part II-II (Secunda Secundae)*](readings/aquinas-summa-theologica-part2-2-pg18755.epub), tr. Fathers of the English Dominican Province
-- [François de La Rochefoucauld, *Reflections; or Sentences and Moral Maxims*](readings/la-rochefoucauld-maxims-pg9105.epub), tr. J. W. Willis Bund and J. Hain Friswell
-- [Joseph Butler, *Human Nature, and Other Sermons*](readings/butler-human-nature-sermons-pg3150.epub)
-- [Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism* (with her translation of *Outlines of Pyrrhonism* I)](readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub), tr. Mary Mills Patrick
-- [Plato, *Gorgias*](readings/plato-gorgias-pg1672.epub), tr. Benjamin Jowett
-- [Plato, *Theaetetus*](readings/plato-theaetetus-pg1726.epub), tr. Benjamin Jowett
-- [Thomas Hobbes, *Leviathan*](readings/hobbes-leviathan-pg3207.epub)
-- [William Graham Sumner, *Folkways*](readings/sumner-folkways-pg24253.epub)
-- [Fyodor Dostoevsky, *The Brothers Karamazov*](readings/dostoyevsky-brothers-karamazov-pg28054.epub), tr. Constance Garnett
-- [Hugo Grotius, *The Rights of War and Peace*](readings/grotius-rights-of-war-and-peace-pg46564.epub), tr. A. C. Campbell
-- [Marcus Tullius Cicero, *The Republic of Cicero*](readings/cicero-republic-pg54161.epub), tr. G. W. Featherstonhaugh
-- [Sophocles, *Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone*](readings/sophocles-plays-storr-pg31.epub), tr. F. Storr
-- [Thomas Aquinas, *Summa Theologica, Part I-II (Pars Prima Secundae)*](readings/aquinas-summa-theologica-part1-2-pg17897.epub), tr. Fathers of the English Dominican Province
-- [Various, *The King James Version of the Bible*](readings/king-james-bible-pg10.epub)
+- Aristotle, *The Nicomachean Ethics*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faristotle-nicomachean-ethics-pg8438.epub) [File](readings/aristotle-nicomachean-ethics-pg8438.epub), tr. D. P. Chase (Everyman ed., intro. J. A. Smith)
+- David Hume, *An Enquiry Concerning the Principles of Morals*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-enquiry-principles-of-morals-pg4320.epub) [File](readings/hume-enquiry-principles-of-morals-pg4320.epub)
+- Henry Sidgwick, *The Methods of Ethics* (7th ed.): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsidgwick-methods-of-ethics-pg46743.epub) [File](readings/sidgwick-methods-of-ethics-pg46743.epub)
+- Herodotus, *The History of Herodotus, Volume 1*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fherodotus-history-vol1-pg2707.epub) [File](readings/herodotus-history-vol1-pg2707.epub), tr. G. C. Macaulay
+- Plato, *Apology*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-apology-pg1656.epub) [File](readings/plato-apology-pg1656.epub), tr. Benjamin Jowett
+- Plato, *The Republic*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-republic-pg1497.epub) [File](readings/plato-republic-pg1497.epub), tr. Benjamin Jowett
+- Charles Darwin, *The Descent of Man, and Selection in Relation to Sex* (2nd ed.): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdarwin-descent-of-man-pg2300.epub) [File](readings/darwin-descent-of-man-pg2300.epub)
+- John Stuart Mill, *On Liberty*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-on-liberty-pg34901.epub) [File](readings/mill-on-liberty-pg34901.epub)
+- Plato, *Crito*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-crito-pg1657.epub) [File](readings/plato-crito-pg1657.epub), tr. Benjamin Jowett
+- Plato, *Euthyphro*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-euthyphro-pg1642.epub) [File](readings/plato-euthyphro-pg1642.epub), tr. Benjamin Jowett
+- Thomas Aquinas, *Summa Theologica, Part II-II (Secunda Secundae)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faquinas-summa-theologica-part2-2-pg18755.epub) [File](readings/aquinas-summa-theologica-part2-2-pg18755.epub), tr. Fathers of the English Dominican Province
+- François de La Rochefoucauld, *Reflections; or Sentences and Moral Maxims*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fla-rochefoucauld-maxims-pg9105.epub) [File](readings/la-rochefoucauld-maxims-pg9105.epub), tr. J. W. Willis Bund and J. Hain Friswell
+- Joseph Butler, *Human Nature, and Other Sermons*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fbutler-human-nature-sermons-pg3150.epub) [File](readings/butler-human-nature-sermons-pg3150.epub)
+- Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism* (with her translation of *Outlines of Pyrrhonism* I): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fpatrick-sextus-empiricus-greek-scepticism-pg17556.epub) [File](readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub), tr. Mary Mills Patrick
+- Plato, *Gorgias*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-gorgias-pg1672.epub) [File](readings/plato-gorgias-pg1672.epub), tr. Benjamin Jowett
+- Plato, *Theaetetus*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-theaetetus-pg1726.epub) [File](readings/plato-theaetetus-pg1726.epub), tr. Benjamin Jowett
+- Thomas Hobbes, *Leviathan*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhobbes-leviathan-pg3207.epub) [File](readings/hobbes-leviathan-pg3207.epub)
+- William Graham Sumner, *Folkways*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsumner-folkways-pg24253.epub) [File](readings/sumner-folkways-pg24253.epub)
+- Fyodor Dostoevsky, *The Brothers Karamazov*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdostoyevsky-brothers-karamazov-pg28054.epub) [File](readings/dostoyevsky-brothers-karamazov-pg28054.epub), tr. Constance Garnett
+- Hugo Grotius, *The Rights of War and Peace*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fgrotius-rights-of-war-and-peace-pg46564.epub) [File](readings/grotius-rights-of-war-and-peace-pg46564.epub), tr. A. C. Campbell
+- Marcus Tullius Cicero, *The Republic of Cicero*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fcicero-republic-pg54161.epub) [File](readings/cicero-republic-pg54161.epub), tr. G. W. Featherstonhaugh
+- Sophocles, *Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsophocles-plays-storr-pg31.epub) [File](readings/sophocles-plays-storr-pg31.epub), tr. F. Storr
+- Thomas Aquinas, *Summa Theologica, Part I-II (Pars Prima Secundae)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faquinas-summa-theologica-part1-2-pg17897.epub) [File](readings/aquinas-summa-theologica-part1-2-pg17897.epub), tr. Fathers of the English Dominican Province
+- Various, *The King James Version of the Bible*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fking-james-bible-pg10.epub) [File](readings/king-james-bible-pg10.epub)
 
 **The great traditions (Chapters 5–8)**
 
-- [Plato, *Meno*](readings/plato-meno-pg1643.epub), tr. Benjamin Jowett
-- [Plato, *Protagoras*](readings/plato-protagoras-pg1591.epub), tr. Benjamin Jowett
-- [Cicero, *The Academic Questions, Treatise De Finibus, and Tusculan Disputations*](readings/cicero-academics-de-finibus-tusculans-pg29247.epub), tr. C. D. Yonge
-- [Diogenes Laertius, *The Lives and Opinions of Eminent Philosophers*](readings/diogenes-laertius-lives-pg57342.epub), tr. C. D. Yonge
-- [Epictetus, *The Enchiridion*](readings/epictetus-enchiridion-pg45109.epub), tr. Thomas Wentworth Higginson
-- [Lucretius, *On the Nature of Things*](readings/lucretius-nature-of-things-pg785.epub), tr. William Ellery Leonard
-- [Seneca, *Minor Dialogues, Together with the Dialogue on Clemency*](readings/seneca-minor-dialogues-pg64576.epub), tr. Aubrey Stewart
-- [Anonymous (Buddhist canon), *The Dhammapada*](readings/dhammapada-muller-pg2017.epub), tr. F. Max Müller
-- [Confucius, *The Analects*](readings/confucius-analects-pg3330.epub), tr. James Legge
-- [Confucius; Mencius (ed. Epiphanius Wilson), *Chinese Literature (Analects, Sayings of Mencius, Shi-King)*](readings/wilson-chinese-literature-pg10056.epub), tr. James Legge
-- [Laozi, *The Tao Teh King*](readings/laozi-tao-teh-king-legge-pg216.epub), tr. James Legge
-- [Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer*](readings/zhuangzi-chuang-tzu-giles-pg59709.epub), tr. Herbert A. Giles
-- [Adam Smith, *The Theory of Moral Sentiments*](readings/smith-theory-of-moral-sentiments-pg67363.epub)
-- [Bernard Mandeville, *The Fable of the Bees; Or, Private Vices, Public Benefits*](readings/mandeville-fable-of-the-bees-pg57260.epub)
-- [David Hume, *A Treatise of Human Nature*](readings/hume-treatise-of-human-nature-pg4705.epub)
+- Plato, *Meno*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-meno-pg1643.epub) [File](readings/plato-meno-pg1643.epub), tr. Benjamin Jowett
+- Plato, *Protagoras*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-protagoras-pg1591.epub) [File](readings/plato-protagoras-pg1591.epub), tr. Benjamin Jowett
+- Cicero, *The Academic Questions, Treatise De Finibus, and Tusculan Disputations*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fcicero-academics-de-finibus-tusculans-pg29247.epub) [File](readings/cicero-academics-de-finibus-tusculans-pg29247.epub), tr. C. D. Yonge
+- Diogenes Laertius, *The Lives and Opinions of Eminent Philosophers*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-pg57342.epub) [File](readings/diogenes-laertius-lives-pg57342.epub), tr. C. D. Yonge
+- Epictetus, *The Enchiridion*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fepictetus-enchiridion-pg45109.epub) [File](readings/epictetus-enchiridion-pg45109.epub), tr. Thomas Wentworth Higginson
+- Lucretius, *On the Nature of Things*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flucretius-nature-of-things-pg785.epub) [File](readings/lucretius-nature-of-things-pg785.epub), tr. William Ellery Leonard
+- Seneca, *Minor Dialogues, Together with the Dialogue on Clemency*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fseneca-minor-dialogues-pg64576.epub) [File](readings/seneca-minor-dialogues-pg64576.epub), tr. Aubrey Stewart
+- Anonymous (Buddhist canon), *The Dhammapada*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdhammapada-muller-pg2017.epub) [File](readings/dhammapada-muller-pg2017.epub), tr. F. Max Müller
+- Confucius, *The Analects*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fconfucius-analects-pg3330.epub) [File](readings/confucius-analects-pg3330.epub), tr. James Legge
+- Confucius; Mencius (ed. Epiphanius Wilson), *Chinese Literature (Analects, Sayings of Mencius, Shi-King)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fwilson-chinese-literature-pg10056.epub) [File](readings/wilson-chinese-literature-pg10056.epub), tr. James Legge
+- Laozi, *The Tao Teh King*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flaozi-tao-teh-king-legge-pg216.epub) [File](readings/laozi-tao-teh-king-legge-pg216.epub), tr. James Legge
+- Zhuangzi, *Chuang Tzu: Mystic, Moralist, and Social Reformer*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fzhuangzi-chuang-tzu-giles-pg59709.epub) [File](readings/zhuangzi-chuang-tzu-giles-pg59709.epub), tr. Herbert A. Giles
+- Adam Smith, *The Theory of Moral Sentiments*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsmith-theory-of-moral-sentiments-pg67363.epub) [File](readings/smith-theory-of-moral-sentiments-pg67363.epub)
+- Bernard Mandeville, *The Fable of the Bees; Or, Private Vices, Public Benefits*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmandeville-fable-of-the-bees-pg57260.epub) [File](readings/mandeville-fable-of-the-bees-pg57260.epub)
+- David Hume, *A Treatise of Human Nature*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-treatise-of-human-nature-pg4705.epub) [File](readings/hume-treatise-of-human-nature-pg4705.epub)
 
 **Modern moral theory (Chapters 9–12)**
 
-- [Arthur Schopenhauer, *The Basis of Morality*](readings/schopenhauer-basis-of-morality-pg44929.epub), tr. Arthur Brodrick Bullock
-- [Immanuel Kant, *Fundamental Principles of the Metaphysic of Morals*](readings/kant-fundamental-principles-metaphysic-morals-pg5682.epub), tr. Thomas Kingsmill Abbott
-- [Immanuel Kant, *The Critique of Practical Reason*](readings/kant-critique-practical-reason-pg5683.epub), tr. Thomas Kingsmill Abbott
-- [John Stuart Mill, *Autobiography*](readings/mill-autobiography-pg10378.epub)
-- [John Stuart Mill, *Utilitarianism*](readings/mill-utilitarianism-pg11224.epub)
-- [Charles Dickens, *Bleak House*](readings/dickens-bleak-house-pg1023.epub)
-- [Jean-Jacques Rousseau, *The Social Contract & Discourses*](readings/rousseau-social-contract-and-discourses-pg46333.epub), tr. G. D. H. Cole
-- [John Locke, *Second Treatise of Government*](readings/locke-second-treatise-of-government-pg7370.epub)
+- Arthur Schopenhauer, *The Basis of Morality*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fschopenhauer-basis-of-morality-pg44929.epub) [File](readings/schopenhauer-basis-of-morality-pg44929.epub), tr. Arthur Brodrick Bullock
+- Immanuel Kant, *Fundamental Principles of the Metaphysic of Morals*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fkant-fundamental-principles-metaphysic-morals-pg5682.epub) [File](readings/kant-fundamental-principles-metaphysic-morals-pg5682.epub), tr. Thomas Kingsmill Abbott
+- Immanuel Kant, *The Critique of Practical Reason*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fkant-critique-practical-reason-pg5683.epub) [File](readings/kant-critique-practical-reason-pg5683.epub), tr. Thomas Kingsmill Abbott
+- John Stuart Mill, *Autobiography*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-autobiography-pg10378.epub) [File](readings/mill-autobiography-pg10378.epub)
+- John Stuart Mill, *Utilitarianism*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-utilitarianism-pg11224.epub) [File](readings/mill-utilitarianism-pg11224.epub)
+- Charles Dickens, *Bleak House*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdickens-bleak-house-pg1023.epub) [File](readings/dickens-bleak-house-pg1023.epub)
+- Jean-Jacques Rousseau, *The Social Contract & Discourses*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Frousseau-social-contract-and-discourses-pg46333.epub) [File](readings/rousseau-social-contract-and-discourses-pg46333.epub), tr. G. D. H. Cole
+- John Locke, *Second Treatise of Government*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flocke-second-treatise-of-government-pg7370.epub) [File](readings/locke-second-treatise-of-government-pg7370.epub)
 
 **Revivals and critiques (Chapters 13–16)**
 
-- [Jane Addams, *Democracy and Social Ethics*](readings/addams-democracy-and-social-ethics-pg15487.epub)
-- [Jean-Jacques Rousseau, *Emile*](readings/rousseau-emile-pg5427.epub), tr. Barbara Foxley
-- [John Stuart Mill, *The Subjection of Women*](readings/mill-subjection-of-women-pg27083.epub)
-- [Mary Wollstonecraft, *A Vindication of the Rights of Woman*](readings/wollstonecraft-vindication-rights-of-woman-pg3420.epub)
-- [Friedrich Nietzsche, *Beyond Good and Evil*](readings/nietzsche-beyond-good-and-evil-pg4363.epub), tr. Helen Zimmern
-- [Friedrich Nietzsche, *The Genealogy of Morals*](readings/nietzsche-genealogy-of-morals-pg52319.epub), tr. Horace B. Samuel
-- [Friedrich Nietzsche, *The Joyful Wisdom (La Gaya Scienza)*](readings/nietzsche-joyful-wisdom-pg52881.epub), tr. Thomas Common
-- [Friedrich Nietzsche, *The Twilight of the Idols and The Antichrist*](readings/nietzsche-twilight-of-the-idols-pg52263.epub), tr. Anthony M. Ludovici
-- [Friedrich Nietzsche, *Thus Spake Zarathustra*](readings/nietzsche-thus-spake-zarathustra-pg1998.epub), tr. Thomas Common
-- [Fyodor Dostoevsky, *Notes from the Underground*](readings/dostoyevsky-notes-from-the-underground-pg600.epub), tr. Constance Garnett
-- [Søren Kierkegaard, *Selections from the Writings of Kierkegaard*](readings/kierkegaard-selections-pg60333.epub), tr. Lee M. Hollander
+- Jane Addams, *Democracy and Social Ethics*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faddams-democracy-and-social-ethics-pg15487.epub) [File](readings/addams-democracy-and-social-ethics-pg15487.epub)
+- Jean-Jacques Rousseau, *Emile*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Frousseau-emile-pg5427.epub) [File](readings/rousseau-emile-pg5427.epub), tr. Barbara Foxley
+- John Stuart Mill, *The Subjection of Women*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-subjection-of-women-pg27083.epub) [File](readings/mill-subjection-of-women-pg27083.epub)
+- Mary Wollstonecraft, *A Vindication of the Rights of Woman*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fwollstonecraft-vindication-rights-of-woman-pg3420.epub) [File](readings/wollstonecraft-vindication-rights-of-woman-pg3420.epub)
+- Friedrich Nietzsche, *Beyond Good and Evil*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-beyond-good-and-evil-pg4363.epub) [File](readings/nietzsche-beyond-good-and-evil-pg4363.epub), tr. Helen Zimmern
+- Friedrich Nietzsche, *The Genealogy of Morals*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-genealogy-of-morals-pg52319.epub) [File](readings/nietzsche-genealogy-of-morals-pg52319.epub), tr. Horace B. Samuel
+- Friedrich Nietzsche, *The Joyful Wisdom (La Gaya Scienza)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-joyful-wisdom-pg52881.epub) [File](readings/nietzsche-joyful-wisdom-pg52881.epub), tr. Thomas Common
+- Friedrich Nietzsche, *The Twilight of the Idols and The Antichrist*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-twilight-of-the-idols-pg52263.epub) [File](readings/nietzsche-twilight-of-the-idols-pg52263.epub), tr. Anthony M. Ludovici
+- Friedrich Nietzsche, *Thus Spake Zarathustra*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fnietzsche-thus-spake-zarathustra-pg1998.epub) [File](readings/nietzsche-thus-spake-zarathustra-pg1998.epub), tr. Thomas Common
+- Fyodor Dostoevsky, *Notes from the Underground*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdostoyevsky-notes-from-the-underground-pg600.epub) [File](readings/dostoyevsky-notes-from-the-underground-pg600.epub), tr. Constance Garnett
+- Søren Kierkegaard, *Selections from the Writings of Kierkegaard*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fkierkegaard-selections-pg60333.epub) [File](readings/kierkegaard-selections-pg60333.epub), tr. Lee M. Hollander
 
 **Metaethics and moral psychology (Chapters 17–18)**
 
-- [G. E. Moore, *Principia Ethica*](readings/moore-principia-ethica-pg53430.epub)
-- [William James, *The Will to Believe, and Other Essays in Popular Philosophy*](readings/james-will-to-believe-pg26659.epub)
-- [David Hume, *An Enquiry Concerning Human Understanding*](readings/hume-enquiry-human-understanding-pg9662.epub)
-- [William James, *The Principles of Psychology, Vol. 1*](readings/james-principles-of-psychology-vol1-pg57628.epub)
+- G. E. Moore, *Principia Ethica*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmoore-principia-ethica-pg53430.epub) [File](readings/moore-principia-ethica-pg53430.epub)
+- William James, *The Will to Believe, and Other Essays in Popular Philosophy*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fjames-will-to-believe-pg26659.epub) [File](readings/james-will-to-believe-pg26659.epub)
+- David Hume, *An Enquiry Concerning Human Understanding*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-enquiry-human-understanding-pg9662.epub) [File](readings/hume-enquiry-human-understanding-pg9662.epub)
+- William James, *The Principles of Psychology, Vol. 1*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fjames-principles-of-psychology-vol1-pg57628.epub) [File](readings/james-principles-of-psychology-vol1-pg57628.epub)
 
 **Applied ethics (Chapters 19–21)**
 
-- [Hippocrates, *The Genuine Works of Hippocrates, Vol. 1*](readings/hippocrates-genuine-works-vol1-pg72583.epub), tr. Francis Adams
-- [Thomas More, *Utopia*](readings/more-utopia-pg2130.epub), tr. Gilbert Burnet
-- [Thomas Percival, *Medical Ethics*](readings/percival-medical-ethics-pg78821.epub)
-- [Various, *The Harvard Classics Volume 38: Scientific Papers*](readings/harvard-classics-38-scientific-papers-pg5694.epub), tr. Various (Hippocratic Oath tr. Francis Adams)
-- [Albert Schweitzer, *Civilization and Ethics*](readings/schweitzer-civilization-and-ethics-pg76061.epub), tr. C. T. Campion
-- [George Perkins Marsh, *Man and Nature*](readings/marsh-man-and-nature-pg37957.epub)
-- [Henry David Thoreau, *Walden, and On The Duty Of Civil Disobedience*](readings/thoreau-walden-pg205.epub)
-- [Henry David Thoreau, *Walking*](readings/thoreau-walking-pg1022.epub)
-- [Henry S. Salt, *Animals' Rights Considered in Relation to Social Progress*](readings/salt-animals-rights-pg64498.epub)
-- [John Muir, *A Thousand-Mile Walk to the Gulf*](readings/muir-thousand-mile-walk-pg60749.epub)
-- [John Muir, *The Yosemite*](readings/muir-yosemite-pg7091.epub)
-- [Michel de Montaigne, *Essays of Michel de Montaigne (complete)*](readings/montaigne-essays-pg3600.epub), tr. Charles Cotton (ed. William Carew Hazlitt)
-- [René Descartes, *Discourse on the Method of Rightly Conducting the Reason*](readings/descartes-discourse-on-method-pg59.epub), tr. John Veitch
-- [E. M. Forster, *The Eternal Moment, and Other Stories*](readings/forster-eternal-moment-pg72890.epub)
-- [Karel Čapek, *R.U.R. (Rossum's Universal Robots)*](readings/capek-rur-pg59112.epub), tr. Paul Selver and Nigel Playfair
-- [L. F. Menabrea; notes by Ada Lovelace, *Sketch of the Analytical Engine invented by Charles Babbage, Esq.*](readings/lovelace-sketch-of-the-analytical-engine-pg75107.epub), tr. Ada Augusta, Countess of Lovelace
-- [Mary Wollstonecraft Shelley, *Frankenstein; Or, The Modern Prometheus*](readings/shelley-frankenstein-pg84.epub)
-- [Samuel Butler, *Erewhon; Or, Over the Range (revised edition)*](readings/butler-erewhon-pg1906.epub)
-- [Samuel D. Warren and Louis D. Brandeis, *The Right to Privacy*](readings/warren-brandeis-right-to-privacy-pg37368.epub)
+- Hippocrates, *The Genuine Works of Hippocrates, Vol. 1*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhippocrates-genuine-works-vol1-pg72583.epub) [File](readings/hippocrates-genuine-works-vol1-pg72583.epub), tr. Francis Adams
+- Thomas More, *Utopia*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmore-utopia-pg2130.epub) [File](readings/more-utopia-pg2130.epub), tr. Gilbert Burnet
+- Thomas Percival, *Medical Ethics*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fpercival-medical-ethics-pg78821.epub) [File](readings/percival-medical-ethics-pg78821.epub)
+- Various, *The Harvard Classics Volume 38: Scientific Papers*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fharvard-classics-38-scientific-papers-pg5694.epub) [File](readings/harvard-classics-38-scientific-papers-pg5694.epub), tr. Various (Hippocratic Oath tr. Francis Adams)
+- Albert Schweitzer, *Civilization and Ethics*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fschweitzer-civilization-and-ethics-pg76061.epub) [File](readings/schweitzer-civilization-and-ethics-pg76061.epub), tr. C. T. Campion
+- George Perkins Marsh, *Man and Nature*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmarsh-man-and-nature-pg37957.epub) [File](readings/marsh-man-and-nature-pg37957.epub)
+- Henry David Thoreau, *Walden, and On The Duty Of Civil Disobedience*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fthoreau-walden-pg205.epub) [File](readings/thoreau-walden-pg205.epub)
+- Henry David Thoreau, *Walking*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fthoreau-walking-pg1022.epub) [File](readings/thoreau-walking-pg1022.epub)
+- Henry S. Salt, *Animals' Rights Considered in Relation to Social Progress*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsalt-animals-rights-pg64498.epub) [File](readings/salt-animals-rights-pg64498.epub)
+- John Muir, *A Thousand-Mile Walk to the Gulf*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmuir-thousand-mile-walk-pg60749.epub) [File](readings/muir-thousand-mile-walk-pg60749.epub)
+- John Muir, *The Yosemite*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmuir-yosemite-pg7091.epub) [File](readings/muir-yosemite-pg7091.epub)
+- Michel de Montaigne, *Essays of Michel de Montaigne (complete)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmontaigne-essays-pg3600.epub) [File](readings/montaigne-essays-pg3600.epub), tr. Charles Cotton (ed. William Carew Hazlitt)
+- René Descartes, *Discourse on the Method of Rightly Conducting the Reason*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdescartes-discourse-on-method-pg59.epub) [File](readings/descartes-discourse-on-method-pg59.epub), tr. John Veitch
+- E. M. Forster, *The Eternal Moment, and Other Stories*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fforster-eternal-moment-pg72890.epub) [File](readings/forster-eternal-moment-pg72890.epub)
+- Karel Čapek, *R.U.R. (Rossum's Universal Robots)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fcapek-rur-pg59112.epub) [File](readings/capek-rur-pg59112.epub), tr. Paul Selver and Nigel Playfair
+- L. F. Menabrea; notes by Ada Lovelace, *Sketch of the Analytical Engine invented by Charles Babbage, Esq.*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flovelace-sketch-of-the-analytical-engine-pg75107.epub) [File](readings/lovelace-sketch-of-the-analytical-engine-pg75107.epub), tr. Ada Augusta, Countess of Lovelace
+- Mary Wollstonecraft Shelley, *Frankenstein; Or, The Modern Prometheus*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fshelley-frankenstein-pg84.epub) [File](readings/shelley-frankenstein-pg84.epub)
+- Samuel Butler, *Erewhon; Or, Over the Range (revised edition)*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fbutler-erewhon-pg1906.epub) [File](readings/butler-erewhon-pg1906.epub)
+- Samuel D. Warren and Louis D. Brandeis, *The Right to Privacy*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fwarren-brandeis-right-to-privacy-pg37368.epub) [File](readings/warren-brandeis-right-to-privacy-pg37368.epub)
 
 **Synthesis (Chapter 22)**
 
-- [Benjamin Franklin, *The Autobiography of Benjamin Franklin*](readings/franklin-autobiography-pg148.epub)
-- [Marcus Aurelius, *Meditations*](readings/marcus-aurelius-meditations-pg2680.epub), tr. Meric Casaubon
+- Benjamin Franklin, *The Autobiography of Benjamin Franklin*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Ffranklin-autobiography-pg148.epub) [File](readings/franklin-autobiography-pg148.epub)
+- Marcus Aurelius, *Meditations*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmarcus-aurelius-meditations-pg2680.epub) [File](readings/marcus-aurelius-meditations-pg2680.epub), tr. Meric Casaubon
 
 ## Part 2 — Required readings to procure yourself
 

@@ -4,15 +4,15 @@ Here is a thought that has occurred, in some form, to clever teenagers and to Th
 
 ## Required reading
 
-- Thomas Hobbes, *Leviathan* (1651), chapters 13–15 and 17: [readings/hobbes-leviathan-pg3207.epub](readings/hobbes-leviathan-pg3207.epub).
-- Jean-Jacques Rousseau, *The Social Contract* (1762), Book I and Book II, chapters 1–4, tr. G. D. H. Cole: [readings/rousseau-social-contract-and-discourses-pg46333.epub](readings/rousseau-social-contract-and-discourses-pg46333.epub).
+- Thomas Hobbes, *Leviathan* (1651), chapters 13–15 and 17: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhobbes-leviathan-pg3207.epub) [File](readings/hobbes-leviathan-pg3207.epub).
+- Jean-Jacques Rousseau, *The Social Contract* (1762), Book I and Book II, chapters 1–4, tr. G. D. H. Cole: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Frousseau-social-contract-and-discourses-pg46333.epub) [File](readings/rousseau-social-contract-and-discourses-pg46333.epub).
 - John Rawls, *A Theory of Justice* (Harvard, 1971; rev. ed. 1999), §§1–4, 11–13, 20–26 **(procure yourself)**.
 - T. M. Scanlon, *What We Owe to Each Other* (Harvard, 1998), chapters 4–5 **(procure yourself)**.
 
 Further reading:
 
-- Plato, *Republic*, Book II, 357a–367e (Glaucon's challenge): [readings/plato-republic-pg1497.epub](readings/plato-republic-pg1497.epub).
-- John Locke, *Second Treatise of Government* (1690), chapters 2, 8 and 9: [readings/locke-second-treatise-of-government-pg7370.epub](readings/locke-second-treatise-of-government-pg7370.epub).
+- Plato, *Republic*, Book II, 357a–367e (Glaucon's challenge): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-republic-pg1497.epub) [File](readings/plato-republic-pg1497.epub).
+- John Locke, *Second Treatise of Government* (1690), chapters 2, 8 and 9: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flocke-second-treatise-of-government-pg7370.epub) [File](readings/locke-second-treatise-of-government-pg7370.epub).
 - David Gauthier, *Morals by Agreement* (Oxford, 1986), chapters 1, 6 and 9 **(procure yourself)**.
 - Charles W. Mills, *The Racial Contract* (Cornell, 1997) **(procure yourself)**.
 - Robert Nozick, *Anarchy, State, and Utopia* (Basic Books, 1974), chapter 7 **(procure yourself)**.

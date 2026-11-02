@@ -4,16 +4,16 @@ Heinz's wife is dying of cancer. A druggist in town has discovered a drug that m
 
 ## Required reading
 
-- Mary Wollstonecraft, *A Vindication of the Rights of Woman* (1792), Introduction and chapters 2–3 and 5 (section 1, on Rousseau): [readings/wollstonecraft-vindication-rights-of-woman-pg3420.epub](readings/wollstonecraft-vindication-rights-of-woman-pg3420.epub).
-- John Stuart Mill, *The Subjection of Women* (1869), chapters 1–2: [readings/mill-subjection-of-women-pg27083.epub](readings/mill-subjection-of-women-pg27083.epub).
+- Mary Wollstonecraft, *A Vindication of the Rights of Woman* (1792), Introduction and chapters 2–3 and 5 (section 1, on Rousseau): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fwollstonecraft-vindication-rights-of-woman-pg3420.epub) [File](readings/wollstonecraft-vindication-rights-of-woman-pg3420.epub).
+- John Stuart Mill, *The Subjection of Women* (1869), chapters 1–2: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-subjection-of-women-pg27083.epub) [File](readings/mill-subjection-of-women-pg27083.epub).
 - Carol Gilligan, *In a Different Voice: Psychological Theory and Women's Development* (Harvard, 1982), Introduction and chapters 1–2 **(procure yourself)**.
 - Nel Noddings, *Caring: A Feminine Approach to Ethics and Moral Education* (California, 1984), chapters 1–2 **(procure yourself)**.
 - Virginia Held, *The Ethics of Care: Personal, Political, and Global* (Oxford, 2006), chapters 1–2 **(procure yourself)**.
 
 Further reading:
 
-- Jean-Jacques Rousseau, *Emile* (1762), Book V, on Sophie, tr. Barbara Foxley: [readings/rousseau-emile-pg5427.epub](readings/rousseau-emile-pg5427.epub).
-- Jane Addams, *Democracy and Social Ethics* (1902), chapters 1–2: [readings/addams-democracy-and-social-ethics-pg15487.epub](readings/addams-democracy-and-social-ethics-pg15487.epub).
+- Jean-Jacques Rousseau, *Emile* (1762), Book V, on Sophie, tr. Barbara Foxley: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Frousseau-emile-pg5427.epub) [File](readings/rousseau-emile-pg5427.epub).
+- Jane Addams, *Democracy and Social Ethics* (1902), chapters 1–2: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faddams-democracy-and-social-ethics-pg15487.epub) [File](readings/addams-democracy-and-social-ethics-pg15487.epub).
 - Simone de Beauvoir, *The Second Sex* (1949), Introduction and the opening of Volume II, tr. Constance Borde and Sheila Malovany-Chevallier (Knopf, 2010), or the older abridged translation by H. M. Parshley (1953) **(procure yourself)**.
 - Eva Feder Kittay, *Love's Labor: Essays on Women, Equality, and Dependency* (Routledge, 1999) **(procure yourself)**.
 - Joan Tronto, *Moral Boundaries: A Political Argument for an Ethic of Care* (Routledge, 1993) **(procure yourself)**.

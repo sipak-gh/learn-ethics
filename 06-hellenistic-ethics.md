@@ -4,17 +4,17 @@ In 323 BCE Alexander the Great died in Babylon at thirty-two, and the world of t
 
 ## Required reading
 
-- Epicurus, *Letter to Menoeceus* and *Principal Doctrines*, in Diogenes Laertius, *Lives of Eminent Philosophers* X, tr. C. D. Yonge: [readings/diogenes-laertius-lives-pg57342.epub](readings/diogenes-laertius-lives-pg57342.epub).
-- Lucretius, *On the Nature of Things*, Book II, lines 1–61, and Book III, lines 830–1094, tr. William Ellery Leonard: [readings/lucretius-nature-of-things-pg785.epub](readings/lucretius-nature-of-things-pg785.epub).
-- Epictetus, *The Enchiridion*, sections 1–5, tr. T. W. Higginson: [readings/epictetus-enchiridion-pg45109.epub](readings/epictetus-enchiridion-pg45109.epub).
-- Sextus Empiricus, *Outlines of Pyrrhonism* I.1–30, in Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism*: [readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub](readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub).
+- Epicurus, *Letter to Menoeceus* and *Principal Doctrines*, in Diogenes Laertius, *Lives of Eminent Philosophers* X, tr. C. D. Yonge: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-pg57342.epub) [File](readings/diogenes-laertius-lives-pg57342.epub).
+- Lucretius, *On the Nature of Things*, Book II, lines 1–61, and Book III, lines 830–1094, tr. William Ellery Leonard: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flucretius-nature-of-things-pg785.epub) [File](readings/lucretius-nature-of-things-pg785.epub).
+- Epictetus, *The Enchiridion*, sections 1–5, tr. T. W. Higginson: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fepictetus-enchiridion-pg45109.epub) [File](readings/epictetus-enchiridion-pg45109.epub).
+- Sextus Empiricus, *Outlines of Pyrrhonism* I.1–30, in Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fpatrick-sextus-empiricus-greek-scepticism-pg17556.epub) [File](readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub).
 - Martha C. Nussbaum, *The Therapy of Desire: Theory and Practice in Hellenistic Ethics* (Princeton, 1994), chapters 1 and 4 **(procure yourself)**.
 
 Further reading:
 
-- Cicero, *De Finibus* (*On Ends*) Books I–III, tr. C. D. Yonge: [readings/cicero-academics-de-finibus-tusculans-pg29247.epub](readings/cicero-academics-de-finibus-tusculans-pg29247.epub).
-- Seneca, *Of a Happy Life* and *On the Shortness of Life*, tr. Aubrey Stewart: [readings/seneca-minor-dialogues-pg64576.epub](readings/seneca-minor-dialogues-pg64576.epub).
-- Diogenes Laertius, *Lives* VI (Diogenes the Cynic) and IX (Pyrrho), tr. C. D. Yonge: [readings/diogenes-laertius-lives-pg57342.epub](readings/diogenes-laertius-lives-pg57342.epub).
+- Cicero, *De Finibus* (*On Ends*) Books I–III, tr. C. D. Yonge: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fcicero-academics-de-finibus-tusculans-pg29247.epub) [File](readings/cicero-academics-de-finibus-tusculans-pg29247.epub).
+- Seneca, *Of a Happy Life* and *On the Shortness of Life*, tr. Aubrey Stewart: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fseneca-minor-dialogues-pg64576.epub) [File](readings/seneca-minor-dialogues-pg64576.epub).
+- Diogenes Laertius, *Lives* VI (Diogenes the Cynic) and IX (Pyrrho), tr. C. D. Yonge: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdiogenes-laertius-lives-pg57342.epub) [File](readings/diogenes-laertius-lives-pg57342.epub).
 - Pierre Hadot, *Philosophy as a Way of Life*, ed. Arnold I. Davidson (Blackwell, 1995) **(procure yourself)**.
 - Thomas Nagel, "Death," *Noûs* 4 (1970), reprinted in *Mortal Questions* (Cambridge, 1979) **(procure yourself)**.
 - James Warren, *Facing Death: Epicurus and His Critics* (Oxford, 2004) **(procure yourself)**.

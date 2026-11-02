@@ -4,10 +4,10 @@ Most of this course has asked first-order questions: what makes an act right, wh
 
 ## Required reading
 
-- G. E. Moore, *Principia Ethica* (1903), chapter I, §§1–14: [readings/moore-principia-ethica-pg53430.epub](readings/moore-principia-ethica-pg53430.epub).
-- David Hume, *A Treatise of Human Nature* (1739–40), Book III, Part I, Section I ("Moral distinctions not derived from reason"): [readings/hume-treatise-of-human-nature-pg4705.epub](readings/hume-treatise-of-human-nature-pg4705.epub).
-- Plato, *Euthyphro*, tr. Benjamin Jowett, 9e–11b: [readings/plato-euthyphro-pg1642.epub](readings/plato-euthyphro-pg1642.epub).
-- William James, "The Moral Philosopher and the Moral Life" (1891), in *The Will to Believe, and Other Essays in Popular Philosophy* (1897): [readings/james-will-to-believe-pg26659.epub](readings/james-will-to-believe-pg26659.epub).
+- G. E. Moore, *Principia Ethica* (1903), chapter I, §§1–14: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmoore-principia-ethica-pg53430.epub) [File](readings/moore-principia-ethica-pg53430.epub).
+- David Hume, *A Treatise of Human Nature* (1739–40), Book III, Part I, Section I ("Moral distinctions not derived from reason"): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-treatise-of-human-nature-pg4705.epub) [File](readings/hume-treatise-of-human-nature-pg4705.epub).
+- Plato, *Euthyphro*, tr. Benjamin Jowett, 9e–11b: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-euthyphro-pg1642.epub) [File](readings/plato-euthyphro-pg1642.epub).
+- William James, "The Moral Philosopher and the Moral Life" (1891), in *The Will to Believe, and Other Essays in Popular Philosophy* (1897): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fjames-will-to-believe-pg26659.epub) [File](readings/james-will-to-believe-pg26659.epub).
 - A. J. Ayer, *Language, Truth and Logic* (1936; 2nd ed. 1946), chapter 6, "Critique of Ethics and Theology" **(procure yourself)**.
 - J. L. Mackie, *Ethics: Inventing Right and Wrong* (Penguin, 1977), chapter 1 **(procure yourself)**.
 - Simon Blackburn, *Ruling Passions* (Oxford University Press, 1998), chapters 1–3, or *Essays in Quasi-Realism* (Oxford University Press, 1993), essays 1 and 8 **(procure yourself)**.

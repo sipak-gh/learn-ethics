@@ -4,18 +4,18 @@ For most of human history, and for most people alive today, ethics and religion 
 
 ## Required reading
 
-- Plato, *Euthyphro* (complete; about 25 pages), tr. Benjamin Jowett: [readings/plato-euthyphro-pg1642.epub](readings/plato-euthyphro-pg1642.epub).
-- Thomas Aquinas, *Summa Theologica* I-II, q. 90, a. 4; q. 91, aa. 1–2; q. 94, aa. 2, 4–5; q. 95, a. 2; q. 96, a. 4 (the "Treatise on Law"), tr. Fathers of the English Dominican Province: [readings/aquinas-summa-theologica-part1-2-pg17897.epub](readings/aquinas-summa-theologica-part1-2-pg17897.epub).
+- Plato, *Euthyphro* (complete; about 25 pages), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-euthyphro-pg1642.epub) [File](readings/plato-euthyphro-pg1642.epub).
+- Thomas Aquinas, *Summa Theologica* I-II, q. 90, a. 4; q. 91, aa. 1–2; q. 94, aa. 2, 4–5; q. 95, a. 2; q. 96, a. 4 (the "Treatise on Law"), tr. Fathers of the English Dominican Province: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faquinas-summa-theologica-part1-2-pg17897.epub) [File](readings/aquinas-summa-theologica-part1-2-pg17897.epub).
 - Robert Merrihew Adams, "A Modified Divine Command Theory of Ethical Wrongness," in Gene Outka and John P. Reeder (eds.), *Religion and Morality* (Anchor, 1973) **(procure yourself)**.
 - John Finnis, *Natural Law and Natural Rights* (Oxford, 1980; 2nd ed. 2011), chapters II–V **(procure yourself)**.
 
 Further reading:
 
-- *The Holy Bible*, King James Version (1611), Genesis 22 (the binding of Isaac) and Romans 2:14–15 (the law "written in their hearts"): [readings/king-james-bible-pg10.epub](readings/king-james-bible-pg10.epub).
-- Sophocles, *Antigone*, lines 450–470 (Antigone before Creon), tr. F. Storr: [readings/sophocles-plays-storr-pg31.epub](readings/sophocles-plays-storr-pg31.epub).
-- Cicero, *The Republic*, tr. G. W. Featherstonhaugh, the Book III fragment on true law: [readings/cicero-republic-pg54161.epub](readings/cicero-republic-pg54161.epub).
-- Hugo Grotius, *The Rights of War and Peace*, Book I, chapter 1, §10, tr. A. C. Campbell: [readings/grotius-rights-of-war-and-peace-pg46564.epub](readings/grotius-rights-of-war-and-peace-pg46564.epub).
-- Fyodor Dostoevsky, *The Brothers Karamazov*, Book II, chapter 6, and Book V, chapters 4–5, tr. Constance Garnett: [readings/dostoyevsky-brothers-karamazov-pg28054.epub](readings/dostoyevsky-brothers-karamazov-pg28054.epub).
+- *The Holy Bible*, King James Version (1611), Genesis 22 (the binding of Isaac) and Romans 2:14–15 (the law "written in their hearts"): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fking-james-bible-pg10.epub) [File](readings/king-james-bible-pg10.epub).
+- Sophocles, *Antigone*, lines 450–470 (Antigone before Creon), tr. F. Storr: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsophocles-plays-storr-pg31.epub) [File](readings/sophocles-plays-storr-pg31.epub).
+- Cicero, *The Republic*, tr. G. W. Featherstonhaugh, the Book III fragment on true law: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fcicero-republic-pg54161.epub) [File](readings/cicero-republic-pg54161.epub).
+- Hugo Grotius, *The Rights of War and Peace*, Book I, chapter 1, §10, tr. A. C. Campbell: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fgrotius-rights-of-war-and-peace-pg46564.epub) [File](readings/grotius-rights-of-war-and-peace-pg46564.epub).
+- Fyodor Dostoevsky, *The Brothers Karamazov*, Book II, chapter 6, and Book V, chapters 4–5, tr. Constance Garnett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdostoyevsky-brothers-karamazov-pg28054.epub) [File](readings/dostoyevsky-brothers-karamazov-pg28054.epub).
 - Robert Merrihew Adams, *Finite and Infinite Goods: A Framework for Ethics* (Oxford, 1999), chapters 1 and 10–11 **(procure yourself)**.
 - Mark Murphy, "The Natural Law Tradition in Ethics" and "Theological Voluntarism," *Stanford Encyclopedia of Philosophy* (free online).
 - Erik Wielenberg, *Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism* (Oxford, 2014) **(procure yourself)**.

@@ -4,16 +4,16 @@ Most modern moral theories start with one question: *what should I do?* Should I
 
 ## Required reading
 
-- Plato, *Protagoras* 351b–358d (the argument about pleasure, knowledge, and "being overcome"), tr. Benjamin Jowett: [readings/plato-protagoras-pg1591.epub](readings/plato-protagoras-pg1591.epub).
-- Plato, *Gorgias* 466a–481b (Socrates and Polus) and 491e–494e (Callicles and the leaky jars), tr. Benjamin Jowett: [readings/plato-gorgias-pg1672.epub](readings/plato-gorgias-pg1672.epub).
-- Plato, *Republic* IV, 427d–445e (the virtues of the city and the soul), tr. Benjamin Jowett: [readings/plato-republic-pg1497.epub](readings/plato-republic-pg1497.epub).
-- Aristotle, *Nicomachean Ethics*, Books I and II complete; VI.5, VI.7–8, VI.12–13; VIII.1–4; IX.9; X.6–8, tr. D. P. Chase: [readings/aristotle-nicomachean-ethics-pg8438.epub](readings/aristotle-nicomachean-ethics-pg8438.epub).
+- Plato, *Protagoras* 351b–358d (the argument about pleasure, knowledge, and "being overcome"), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-protagoras-pg1591.epub) [File](readings/plato-protagoras-pg1591.epub).
+- Plato, *Gorgias* 466a–481b (Socrates and Polus) and 491e–494e (Callicles and the leaky jars), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-gorgias-pg1672.epub) [File](readings/plato-gorgias-pg1672.epub).
+- Plato, *Republic* IV, 427d–445e (the virtues of the city and the soul), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-republic-pg1497.epub) [File](readings/plato-republic-pg1497.epub).
+- Aristotle, *Nicomachean Ethics*, Books I and II complete; VI.5, VI.7–8, VI.12–13; VIII.1–4; IX.9; X.6–8, tr. D. P. Chase: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faristotle-nicomachean-ethics-pg8438.epub) [File](readings/aristotle-nicomachean-ethics-pg8438.epub).
 - Julia Annas, *The Morality of Happiness* (Oxford, 1993), Introduction and chapter 1 **(procure yourself)**.
 
 Further reading:
 
-- Plato, *Meno* 70a–80d (can virtue be taught?) and 87c–89a, tr. Benjamin Jowett: [readings/plato-meno-pg1643.epub](readings/plato-meno-pg1643.epub).
-- Aristotle, *Nicomachean Ethics* VII.1–3 (weakness of will), tr. D. P. Chase: [readings/aristotle-nicomachean-ethics-pg8438.epub](readings/aristotle-nicomachean-ethics-pg8438.epub).
+- Plato, *Meno* 70a–80d (can virtue be taught?) and 87c–89a, tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-meno-pg1643.epub) [File](readings/plato-meno-pg1643.epub).
+- Aristotle, *Nicomachean Ethics* VII.1–3 (weakness of will), tr. D. P. Chase: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faristotle-nicomachean-ethics-pg8438.epub) [File](readings/aristotle-nicomachean-ethics-pg8438.epub).
 - Gregory Vlastos, *Socrates: Ironist and Moral Philosopher* (Cornell, 1991), chapters 6 and 8 **(procure yourself)**.
 - Martha Nussbaum, *The Fragility of Goodness: Luck and Ethics in Greek Tragedy and Philosophy* (Cambridge, 1986; updated ed. 2001), chapters 11–12 **(procure yourself)**.
 - Rosalind Hursthouse, *On Virtue Ethics* (Oxford, 1999), chapters 1–2 **(procure yourself)**.

@@ -4,14 +4,14 @@ Kant located morality in the form of the will. The utilitarians located it in th
 
 ## Required reading
 
-- John Stuart Mill, *Utilitarianism* (1861/1863): [readings/mill-utilitarianism-pg11224.epub](readings/mill-utilitarianism-pg11224.epub). The whole essay (about 25,000 words); chapters 2, 4 and 5 are essential.
+- John Stuart Mill, *Utilitarianism* (1861/1863): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-utilitarianism-pg11224.epub) [File](readings/mill-utilitarianism-pg11224.epub). The whole essay (about 25,000 words); chapters 2, 4 and 5 are essential.
 - Jeremy Bentham, *An Introduction to the Principles of Morals and Legislation* (1789; Clarendon Press ed. 1907), chapters 1–4 and the footnote to chapter 17, §1. Public domain but not on Project Gutenberg **(procure yourself)**; free scans are on the Internet Archive (see REFERENCES.md).
-- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907): [readings/sidgwick-methods-of-ethics-pg46743.epub](readings/sidgwick-methods-of-ethics-pg46743.epub). Read the autobiographical Preface to the sixth edition, Book III chapter 13, Book IV chapters 1 and 5, and the Concluding Chapter.
-- John Stuart Mill, *Autobiography* (1873): [readings/mill-autobiography-pg10378.epub](readings/mill-autobiography-pg10378.epub), chapter 5 ("A Crisis in My Mental History").
+- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsidgwick-methods-of-ethics-pg46743.epub) [File](readings/sidgwick-methods-of-ethics-pg46743.epub). Read the autobiographical Preface to the sixth edition, Book III chapter 13, Book IV chapters 1 and 5, and the Concluding Chapter.
+- John Stuart Mill, *Autobiography* (1873): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-autobiography-pg10378.epub) [File](readings/mill-autobiography-pg10378.epub), chapter 5 ("A Crisis in My Mental History").
 
 Further reading:
 
-- John Stuart Mill, *On Liberty* (1859): [readings/mill-on-liberty-pg34901.epub](readings/mill-on-liberty-pg34901.epub), chapter 1.
+- John Stuart Mill, *On Liberty* (1859): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-on-liberty-pg34901.epub) [File](readings/mill-on-liberty-pg34901.epub), chapter 1.
 - J. J. C. Smart and Bernard Williams, *Utilitarianism: For and Against* (Cambridge, 1973) **(procure yourself)**.
 - Bart Schultz, *The Happiness Philosophers: The Lives and Works of the Great Utilitarians* (Princeton, 2017) **(procure yourself)**.
 - Katarzyna de Lazari-Radek and Peter Singer, *The Point of View of the Universe: Sidgwick and Contemporary Ethics* (Oxford, 2014) **(procure yourself)**.

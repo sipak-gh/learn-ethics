@@ -8,12 +8,12 @@ In 1972 a young Australian philosopher published an article arguing that most pe
 - Bernard Williams, "A Critique of Utilitarianism," in J. J. C. Smart and Bernard Williams, *Utilitarianism: For and Against* (Cambridge, 1973), sections 3–5 **(procure yourself)**.
 - Derek Parfit, *Reasons and Persons* (Oxford, 1984), Part IV, chapters 16–17 ("The Non-Identity Problem," "The Repugnant Conclusion") **(procure yourself)**.
 - Peter Railton, "Alienation, Consequentialism, and the Demands of Morality," *Philosophy & Public Affairs* 13 (1984) **(procure yourself)**.
-- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907), Book IV, chapters 1 and 3: [readings/sidgwick-methods-of-ethics-pg46743.epub](readings/sidgwick-methods-of-ethics-pg46743.epub).
+- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907), Book IV, chapters 1 and 3: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsidgwick-methods-of-ethics-pg46743.epub) [File](readings/sidgwick-methods-of-ethics-pg46743.epub).
 
 Further reading:
 
-- Adam Smith, *The Theory of Moral Sentiments* (6th ed., 1790), Part III, chapter 3: [readings/smith-theory-of-moral-sentiments-pg67363.epub](readings/smith-theory-of-moral-sentiments-pg67363.epub).
-- Charles Dickens, *Bleak House* (1853), chapter 4, "Telescopic Philanthropy": [readings/dickens-bleak-house-pg1023.epub](readings/dickens-bleak-house-pg1023.epub).
+- Adam Smith, *The Theory of Moral Sentiments* (6th ed., 1790), Part III, chapter 3: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsmith-theory-of-moral-sentiments-pg67363.epub) [File](readings/smith-theory-of-moral-sentiments-pg67363.epub).
+- Charles Dickens, *Bleak House* (1853), chapter 4, "Telescopic Philanthropy": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdickens-bleak-house-pg1023.epub) [File](readings/dickens-bleak-house-pg1023.epub).
 - William MacAskill, *Doing Good Better* (2015) and *What We Owe the Future* (2022) **(procure yourself)**.
 - Toby Ord, *The Precipice: Existential Risk and the Future of Humanity* (2020) **(procure yourself)**.
 - Susan Wolf, "Moral Saints," *Journal of Philosophy* 79 (1982) **(procure yourself)**.

@@ -4,14 +4,14 @@ Hume grounded morality in feeling. Immanuel Kant admired Hume and set out to sho
 
 ## Required reading
 
-- Immanuel Kant, *Fundamental Principles of the Metaphysic of Morals* (1785; usually called the *Groundwork*), tr. Thomas Kingsmill Abbott: [readings/kant-fundamental-principles-metaphysic-morals-pg5682.epub](readings/kant-fundamental-principles-metaphysic-morals-pg5682.epub). Read all three sections; the Second Section is the core. For serious study, pair it with a modern translation **(procure yourself)**: Kant, *Groundwork of the Metaphysics of Morals*, tr. Mary Gregor and Jens Timmermann (Cambridge University Press, revised ed. 2012), which prints the Akademie page numbers used in this chapter.
+- Immanuel Kant, *Fundamental Principles of the Metaphysic of Morals* (1785; usually called the *Groundwork*), tr. Thomas Kingsmill Abbott: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fkant-fundamental-principles-metaphysic-morals-pg5682.epub) [File](readings/kant-fundamental-principles-metaphysic-morals-pg5682.epub). Read all three sections; the Second Section is the core. For serious study, pair it with a modern translation **(procure yourself)**: Kant, *Groundwork of the Metaphysics of Morals*, tr. Mary Gregor and Jens Timmermann (Cambridge University Press, revised ed. 2012), which prints the Akademie page numbers used in this chapter.
 - Immanuel Kant, "On a Supposed Right to Tell Lies from Benevolent Motives" (1797), tr. T. K. Abbott, in *Kant's Critique of Practical Reason and Other Works on the Theory of Ethics* (4th ed., London: Longmans, 1889), pp. 361–365. Public domain but not on Project Gutenberg **(procure yourself)**; a free scan is on the Internet Archive (see REFERENCES.md). About four pages.
 - Christine M. Korsgaard, "The Right to Lie: Kant on Dealing with Evil," *Philosophy & Public Affairs* 15 (1986): 325–349; reprinted in her *Creating the Kingdom of Ends* (Cambridge University Press, 1996) **(procure yourself)**.
 
 Further reading:
 
-- Immanuel Kant, *The Critique of Practical Reason* (1788), tr. T. K. Abbott: [readings/kant-critique-practical-reason-pg5683.epub](readings/kant-critique-practical-reason-pg5683.epub). Book I, chapter 1, and the Conclusion.
-- Arthur Schopenhauer, *The Basis of Morality* (1840), tr. Arthur Brodrick Bullock: [readings/schopenhauer-basis-of-morality-pg44929.epub](readings/schopenhauer-basis-of-morality-pg44929.epub). Part II is a sustained attack on Kant.
+- Immanuel Kant, *The Critique of Practical Reason* (1788), tr. T. K. Abbott: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fkant-critique-practical-reason-pg5683.epub) [File](readings/kant-critique-practical-reason-pg5683.epub). Book I, chapter 1, and the Conclusion.
+- Arthur Schopenhauer, *The Basis of Morality* (1840), tr. Arthur Brodrick Bullock: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fschopenhauer-basis-of-morality-pg44929.epub) [File](readings/schopenhauer-basis-of-morality-pg44929.epub). Part II is a sustained attack on Kant.
 - Onora O'Neill, *Constructions of Reason* (Cambridge, 1989); Barbara Herman, *The Practice of Moral Judgment* (Harvard, 1993); Allen W. Wood, *Kantian Ethics* (Cambridge, 2008); Rae Langton, "Duty and Desolation," *Philosophy* 67 (1992) **(procure yourself)**.
 
 ## The clockwork man of Königsberg

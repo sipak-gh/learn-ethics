@@ -8,8 +8,8 @@ In 1843 Ada Lovelace published the first extended account of what a general-purp
 - Cathy O'Neil, *Weapons of Math Destruction* (Crown, 2016), introduction and chapters 1 and 5 **(procure yourself)**.
 - Stuart Russell, *Human Compatible: Artificial Intelligence and the Problem of Control* (Viking, 2019), chapters 1, 7 and 9 **(procure yourself)**.
 - Nick Bostrom, *Superintelligence: Paths, Dangers, Strategies* (Oxford University Press, 2014), chapters 7–8 **(procure yourself)**.
-- Samuel D. Warren and Louis D. Brandeis, "The Right to Privacy," *Harvard Law Review* 4 (1890): [readings/warren-brandeis-right-to-privacy-pg37368.epub](readings/warren-brandeis-right-to-privacy-pg37368.epub). The founding text of privacy law, and short.
-- L. F. Menabrea, *Sketch of the Analytical Engine*, translated with notes by Ada Lovelace (1843): [readings/lovelace-sketch-of-the-analytical-engine-pg75107.epub](readings/lovelace-sketch-of-the-analytical-engine-pg75107.epub). Note G.
+- Samuel D. Warren and Louis D. Brandeis, "The Right to Privacy," *Harvard Law Review* 4 (1890): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fwarren-brandeis-right-to-privacy-pg37368.epub) [File](readings/warren-brandeis-right-to-privacy-pg37368.epub). The founding text of privacy law, and short.
+- L. F. Menabrea, *Sketch of the Analytical Engine*, translated with notes by Ada Lovelace (1843): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Flovelace-sketch-of-the-analytical-engine-pg75107.epub) [File](readings/lovelace-sketch-of-the-analytical-engine-pg75107.epub). Note G.
 
 Further reading:
 
@@ -17,11 +17,11 @@ Further reading:
 - Helen Nissenbaum, *Privacy in Context* (Stanford University Press, 2010) **(procure yourself)**.
 - Shannon Vallor, *Technology and the Virtues* (Oxford University Press, 2016) **(procure yourself)**.
 - Jonathan Birch, *The Edge of Sentience* (Oxford University Press, 2024), the chapters on AI; open access **(procure yourself)**.
-- John Stuart Mill, *On Liberty*: [readings/mill-on-liberty-pg34901.epub](readings/mill-on-liberty-pg34901.epub). Chapters I and III.
-- Samuel Butler, *Erewhon* (revised edition, 1901): [readings/butler-erewhon-pg1906.epub](readings/butler-erewhon-pg1906.epub). Chapters XXIII–XXV, "The Book of the Machines."
-- Mary Shelley, *Frankenstein* (1818): [readings/shelley-frankenstein-pg84.epub](readings/shelley-frankenstein-pg84.epub). Chapters 10–17, the creature's story.
-- Karel Čapek, *R.U.R. (Rossum's Universal Robots)*, tr. Paul Selver and Nigel Playfair (1923): [readings/capek-rur-pg59112.epub](readings/capek-rur-pg59112.epub). The play that gave us the word "robot."
-- E. M. Forster, "The Machine Stops" (1909), in *The Eternal Moment and Other Stories* (1928): [readings/forster-eternal-moment-pg72890.epub](readings/forster-eternal-moment-pg72890.epub).
+- John Stuart Mill, *On Liberty*: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-on-liberty-pg34901.epub) [File](readings/mill-on-liberty-pg34901.epub). Chapters I and III.
+- Samuel Butler, *Erewhon* (revised edition, 1901): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fbutler-erewhon-pg1906.epub) [File](readings/butler-erewhon-pg1906.epub). Chapters XXIII–XXV, "The Book of the Machines."
+- Mary Shelley, *Frankenstein* (1818): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fshelley-frankenstein-pg84.epub) [File](readings/shelley-frankenstein-pg84.epub). Chapters 10–17, the creature's story.
+- Karel Čapek, *R.U.R. (Rossum's Universal Robots)*, tr. Paul Selver and Nigel Playfair (1923): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fcapek-rur-pg59112.epub) [File](readings/capek-rur-pg59112.epub). The play that gave us the word "robot."
+- E. M. Forster, "The Machine Stops" (1909), in *The Eternal Moment and Other Stories* (1928): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fforster-eternal-moment-pg72890.epub) [File](readings/forster-eternal-moment-pg72890.epub).
 
 ## Is technology neutral?
 

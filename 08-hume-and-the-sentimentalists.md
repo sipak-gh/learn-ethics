@@ -4,15 +4,15 @@ Where does morality come from: the head or the heart? For most of the history co
 
 ## Required reading
 
-- David Hume, *A Treatise of Human Nature*, Book 2, Part 3, Section 3 ("Of the influencing motives of the will") and Book 3, Part 1, Sections 1–2: [readings/hume-treatise-of-human-nature-pg4705.epub](readings/hume-treatise-of-human-nature-pg4705.epub).
-- David Hume, *An Enquiry concerning the Principles of Morals*, Section I, Section V, Section IX, and Appendix I: [readings/hume-enquiry-principles-of-morals-pg4320.epub](readings/hume-enquiry-principles-of-morals-pg4320.epub).
-- Adam Smith, *The Theory of Moral Sentiments*, Part I, Section I, Chapters 1–2, and Part III, Chapters 1–3: [readings/smith-theory-of-moral-sentiments-pg67363.epub](readings/smith-theory-of-moral-sentiments-pg67363.epub).
+- David Hume, *A Treatise of Human Nature*, Book 2, Part 3, Section 3 ("Of the influencing motives of the will") and Book 3, Part 1, Sections 1–2: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-treatise-of-human-nature-pg4705.epub) [File](readings/hume-treatise-of-human-nature-pg4705.epub).
+- David Hume, *An Enquiry concerning the Principles of Morals*, Section I, Section V, Section IX, and Appendix I: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-enquiry-principles-of-morals-pg4320.epub) [File](readings/hume-enquiry-principles-of-morals-pg4320.epub).
+- Adam Smith, *The Theory of Moral Sentiments*, Part I, Section I, Chapters 1–2, and Part III, Chapters 1–3: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsmith-theory-of-moral-sentiments-pg67363.epub) [File](readings/smith-theory-of-moral-sentiments-pg67363.epub).
 - Francis Hutcheson, *An Inquiry into the Original of Our Ideas of Beauty and Virtue* (1725), Treatise II, Sections I–III, ed. Wolfgang Leidhold (Liberty Fund, 2004) **(procure yourself; free to read at the Online Library of Liberty)**.
 
 Further reading:
 
-- Bernard Mandeville, *The Fable of the Bees*, "The Grumbling Hive" and "An Enquiry into the Origin of Moral Virtue": [readings/mandeville-fable-of-the-bees-pg57260.epub](readings/mandeville-fable-of-the-bees-pg57260.epub).
-- Joseph Butler, *Fifteen Sermons Preached at the Rolls Chapel* (1726), Sermons I–III ("Upon Human Nature"): [readings/butler-human-nature-sermons-pg3150.epub](readings/butler-human-nature-sermons-pg3150.epub).
+- Bernard Mandeville, *The Fable of the Bees*, "The Grumbling Hive" and "An Enquiry into the Origin of Moral Virtue": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmandeville-fable-of-the-bees-pg57260.epub) [File](readings/mandeville-fable-of-the-bees-pg57260.epub).
+- Joseph Butler, *Fifteen Sermons Preached at the Rolls Chapel* (1726), Sermons I–III ("Upon Human Nature"): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fbutler-human-nature-sermons-pg3150.epub) [File](readings/butler-human-nature-sermons-pg3150.epub).
 - Annette C. Baier, *A Progress of Sentiments: Reflections on Hume's Treatise* (Harvard, 1991) **(procure yourself)**.
 - Christine M. Korsgaard, "Skepticism about Practical Reason," *Journal of Philosophy* 83 (1986) **(procure yourself)**.
 - Michael Slote, *Moral Sentimentalism* (Oxford, 2010) **(procure yourself)**.

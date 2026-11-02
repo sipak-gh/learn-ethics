@@ -4,16 +4,16 @@ Ethics is the part of philosophy that asks how you should live, what you owe to 
 
 ## Required reading
 
-- Plato, *Republic*, Book I from 336b (Thrasymachus) and Book II to 367e (Glaucon and Adeimantus), tr. Benjamin Jowett: [readings/plato-republic-pg1497.epub](readings/plato-republic-pg1497.epub).
-- Plato, *Apology*, tr. Benjamin Jowett (short; read all of it): [readings/plato-apology-pg1656.epub](readings/plato-apology-pg1656.epub).
-- Aristotle, *Nicomachean Ethics*, Book I, chapters 1–3, tr. D. P. Chase: [readings/aristotle-nicomachean-ethics-pg8438.epub](readings/aristotle-nicomachean-ethics-pg8438.epub).
-- David Hume, *An Enquiry Concerning the Principles of Morals*, Section IX, Part II (the "sensible knave"): [readings/hume-enquiry-principles-of-morals-pg4320.epub](readings/hume-enquiry-principles-of-morals-pg4320.epub).
-- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907), Introduction §1 and Book III, chapter xi, §2: [readings/sidgwick-methods-of-ethics-pg46743.epub](readings/sidgwick-methods-of-ethics-pg46743.epub).
+- Plato, *Republic*, Book I from 336b (Thrasymachus) and Book II to 367e (Glaucon and Adeimantus), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-republic-pg1497.epub) [File](readings/plato-republic-pg1497.epub).
+- Plato, *Apology*, tr. Benjamin Jowett (short; read all of it): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-apology-pg1656.epub) [File](readings/plato-apology-pg1656.epub).
+- Aristotle, *Nicomachean Ethics*, Book I, chapters 1–3, tr. D. P. Chase: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faristotle-nicomachean-ethics-pg8438.epub) [File](readings/aristotle-nicomachean-ethics-pg8438.epub).
+- David Hume, *An Enquiry Concerning the Principles of Morals*, Section IX, Part II (the "sensible knave"): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-enquiry-principles-of-morals-pg4320.epub) [File](readings/hume-enquiry-principles-of-morals-pg4320.epub).
+- Henry Sidgwick, *The Methods of Ethics* (7th ed., 1907), Introduction §1 and Book III, chapter xi, §2: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsidgwick-methods-of-ethics-pg46743.epub) [File](readings/sidgwick-methods-of-ethics-pg46743.epub).
 - John Rawls, *A Theory of Justice* (Harvard University Press, 1971; revised edition 1999), §4 and §9 on reflective equilibrium **(procure yourself)**.
 
 Further reading:
 
-- Herodotus, *Histories* I.8–13, the other story of Gyges, tr. G. C. Macaulay: [readings/herodotus-history-vol1-pg2707.epub](readings/herodotus-history-vol1-pg2707.epub).
+- Herodotus, *Histories* I.8–13, the other story of Gyges, tr. G. C. Macaulay: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fherodotus-history-vol1-pg2707.epub) [File](readings/herodotus-history-vol1-pg2707.epub).
 - Norman Daniels, "Wide Reflective Equilibrium and Theory Acceptance in Ethics," *Journal of Philosophy* 76 (1979) **(procure yourself)**.
 - H. A. Prichard, "Does Moral Philosophy Rest on a Mistake?", *Mind* 21 (1912) **(procure yourself)**.
 - Bernard Williams, *Morality: An Introduction to Ethics* (Cambridge University Press, 1972), chapter 1, "The amoralist" **(procure yourself)**.

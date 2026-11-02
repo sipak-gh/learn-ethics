@@ -4,16 +4,16 @@ Chapter 1 described ethics as an inquiry with data (considered judgments) and a 
 
 ## Required reading
 
-- Plato, *Crito*, tr. Benjamin Jowett (all; about 20 pages): [readings/plato-crito-pg1657.epub](readings/plato-crito-pg1657.epub).
-- Plato, *Euthyphro* 7b–8b (on what kind of disagreement makes enemies), tr. Benjamin Jowett: [readings/plato-euthyphro-pg1642.epub](readings/plato-euthyphro-pg1642.epub).
-- John Stuart Mill, *On Liberty* (1859), chapter II: [readings/mill-on-liberty-pg34901.epub](readings/mill-on-liberty-pg34901.epub).
+- Plato, *Crito*, tr. Benjamin Jowett (all; about 20 pages): [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-crito-pg1657.epub) [File](readings/plato-crito-pg1657.epub).
+- Plato, *Euthyphro* 7b–8b (on what kind of disagreement makes enemies), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-euthyphro-pg1642.epub) [File](readings/plato-euthyphro-pg1642.epub).
+- John Stuart Mill, *On Liberty* (1859), chapter II: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fmill-on-liberty-pg34901.epub) [File](readings/mill-on-liberty-pg34901.epub).
 - Philippa Foot, "The Problem of Abortion and the Doctrine of the Double Effect," *Oxford Review* 5 (1967); reprinted in Foot, *Virtues and Vices* (Blackwell/Oxford, 1978) **(procure yourself)**.
 - Judith Jarvis Thomson, "The Trolley Problem," *Yale Law Journal* 94 (1985), and "Turning the Trolley," *Philosophy & Public Affairs* 36 (2008) **(procure yourself)**.
 
 Further reading:
 
-- Thomas Aquinas, *Summa Theologica* II-II, q. 64, a. 7 (the origin of the doctrine of double effect), tr. Fathers of the English Dominican Province: [readings/aquinas-summa-theologica-part2-2-pg18755.epub](readings/aquinas-summa-theologica-part2-2-pg18755.epub).
-- Charles Darwin, *The Descent of Man* (2nd ed., 1874), chapters IV–V, on the widening of moral sympathy: [readings/darwin-descent-of-man-pg2300.epub](readings/darwin-descent-of-man-pg2300.epub).
+- Thomas Aquinas, *Summa Theologica* II-II, q. 64, a. 7 (the origin of the doctrine of double effect), tr. Fathers of the English Dominican Province: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faquinas-summa-theologica-part2-2-pg18755.epub) [File](readings/aquinas-summa-theologica-part2-2-pg18755.epub).
+- Charles Darwin, *The Descent of Man* (2nd ed., 1874), chapters IV–V, on the widening of moral sympathy: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fdarwin-descent-of-man-pg2300.epub) [File](readings/darwin-descent-of-man-pg2300.epub).
 - James Rachels, "Active and Passive Euthanasia," *New England Journal of Medicine* 292 (1975) **(procure yourself)**.
 - Frances Kamm, *Intricate Ethics* (Oxford University Press, 2007), chapters 1–5 **(procure yourself)**.
 - David Edmonds, *Would You Kill the Fat Man?* (Princeton University Press, 2014), a lively history of the trolley problem **(procure yourself)**.

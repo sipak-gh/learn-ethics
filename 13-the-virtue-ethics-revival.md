@@ -5,7 +5,7 @@ In 1956 Oxford University proposed to give an honorary degree to Harry S. Truman
 ## Required reading
 
 - G. E. M. Anscombe, "Modern Moral Philosophy," *Philosophy* 33, no. 124 (1958): 1–19 **(procure yourself)**.
-- Aristotle, *Nicomachean Ethics*, Books I–II and VI, tr. D. P. Chase: [readings/aristotle-nicomachean-ethics-pg8438.epub](readings/aristotle-nicomachean-ethics-pg8438.epub). Review of [Chapter 5](05-ancient-virtue-ethics.md).
+- Aristotle, *Nicomachean Ethics*, Books I–II and VI, tr. D. P. Chase: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Faristotle-nicomachean-ethics-pg8438.epub) [File](readings/aristotle-nicomachean-ethics-pg8438.epub). Review of [Chapter 5](05-ancient-virtue-ethics.md).
 - Rosalind Hursthouse, *On Virtue Ethics* (Oxford, 1999), Introduction and chapters 1–3 **(procure yourself)**.
 - Alasdair MacIntyre, *After Virtue* (1981; 3rd ed., Notre Dame, 2007), chapters 1–2 and 14–15 **(procure yourself)**.
 - Bernard Williams, "Moral Luck," and Thomas Nagel, "Moral Luck," both in *Proceedings of the Aristotelian Society*, suppl. vol. 50 (1976); reprinted in Williams, *Moral Luck* (1981), and Nagel, *Mortal Questions* (1979) **(procure yourself)**.
@@ -13,7 +13,7 @@ In 1956 Oxford University proposed to give an honorary degree to Harry S. Truman
 Further reading:
 
 - Philippa Foot, *Natural Goodness* (Oxford, 2001), chapters 1–3 **(procure yourself)**.
-- Adam Smith, *The Theory of Moral Sentiments* (1790), Part II, Section III, "Of the Influence of Fortune": [readings/smith-theory-of-moral-sentiments-pg67363.epub](readings/smith-theory-of-moral-sentiments-pg67363.epub).
+- Adam Smith, *The Theory of Moral Sentiments* (1790), Part II, Section III, "Of the Influence of Fortune": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsmith-theory-of-moral-sentiments-pg67363.epub) [File](readings/smith-theory-of-moral-sentiments-pg67363.epub).
 - Iris Murdoch, *The Sovereignty of Good* (1970) **(procure yourself)**.
 - John M. Doris, *Lack of Character: Personality and Moral Behavior* (Cambridge, 2002) **(procure yourself)**.
 

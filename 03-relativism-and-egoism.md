@@ -4,19 +4,19 @@ Two thoughts arrive early in almost everyone's moral life, usually in late adole
 
 ## Required reading
 
-- Herodotus, *The History*, Book III, chapter 38 (Darius, the Greeks and the Callatians), and Book II, chapter 35, tr. G. C. Macaulay: [readings/herodotus-history-vol1-pg2707.epub](readings/herodotus-history-vol1-pg2707.epub).
-- Plato, *Theaetetus* 151e–152c and 166a–172c (the "Apology of Protagoras"), tr. Benjamin Jowett: [readings/plato-theaetetus-pg1726.epub](readings/plato-theaetetus-pg1726.epub).
+- Herodotus, *The History*, Book III, chapter 38 (Darius, the Greeks and the Callatians), and Book II, chapter 35, tr. G. C. Macaulay: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fherodotus-history-vol1-pg2707.epub) [File](readings/herodotus-history-vol1-pg2707.epub).
+- Plato, *Theaetetus* 151e–152c and 166a–172c (the "Apology of Protagoras"), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-theaetetus-pg1726.epub) [File](readings/plato-theaetetus-pg1726.epub).
 - James Rachels, "The Challenge of Cultural Relativism," chapter 2 of *The Elements of Moral Philosophy* (McGraw-Hill; any edition, the latest revised by Stuart Rachels) **(procure yourself)**.
-- Thomas Hobbes, *Leviathan* (1651), chapters 6, 13 and 15: [readings/hobbes-leviathan-pg3207.epub](readings/hobbes-leviathan-pg3207.epub).
-- Joseph Butler, *Fifteen Sermons Preached at the Rolls Chapel* (1726), Sermon XI, "Upon the Love of Our Neighbour": [readings/butler-human-nature-sermons-pg3150.epub](readings/butler-human-nature-sermons-pg3150.epub).
+- Thomas Hobbes, *Leviathan* (1651), chapters 6, 13 and 15: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhobbes-leviathan-pg3207.epub) [File](readings/hobbes-leviathan-pg3207.epub).
+- Joseph Butler, *Fifteen Sermons Preached at the Rolls Chapel* (1726), Sermon XI, "Upon the Love of Our Neighbour": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fbutler-human-nature-sermons-pg3150.epub) [File](readings/butler-human-nature-sermons-pg3150.epub).
 
 Further reading:
 
-- David Hume, *An Enquiry Concerning the Principles of Morals*, Appendix II, "Of Self-Love": [readings/hume-enquiry-principles-of-morals-pg4320.epub](readings/hume-enquiry-principles-of-morals-pg4320.epub).
-- Plato, *Gorgias* 482c–486d (Callicles on nature and convention), tr. Benjamin Jowett: [readings/plato-gorgias-pg1672.epub](readings/plato-gorgias-pg1672.epub).
-- William Graham Sumner, *Folkways* (1906), chapter I: [readings/sumner-folkways-pg24253.epub](readings/sumner-folkways-pg24253.epub).
-- Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism* (1899), which translates the first book of the *Outlines of Pyrrhonism*, including the ten modes: [readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub](readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub).
-- François de La Rochefoucauld, *Reflections; or Sentences and Moral Maxims*, tr. J. W. Willis Bund and J. Hain Friswell: [readings/la-rochefoucauld-maxims-pg9105.epub](readings/la-rochefoucauld-maxims-pg9105.epub).
+- David Hume, *An Enquiry Concerning the Principles of Morals*, Appendix II, "Of Self-Love": [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fhume-enquiry-principles-of-morals-pg4320.epub) [File](readings/hume-enquiry-principles-of-morals-pg4320.epub).
+- Plato, *Gorgias* 482c–486d (Callicles on nature and convention), tr. Benjamin Jowett: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fplato-gorgias-pg1672.epub) [File](readings/plato-gorgias-pg1672.epub).
+- William Graham Sumner, *Folkways* (1906), chapter I: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fsumner-folkways-pg24253.epub) [File](readings/sumner-folkways-pg24253.epub).
+- Mary Mills Patrick, *Sextus Empiricus and Greek Scepticism* (1899), which translates the first book of the *Outlines of Pyrrhonism*, including the ten modes: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fpatrick-sextus-empiricus-greek-scepticism-pg17556.epub) [File](readings/patrick-sextus-empiricus-greek-scepticism-pg17556.epub).
+- François de La Rochefoucauld, *Reflections; or Sentences and Moral Maxims*, tr. J. W. Willis Bund and J. Hain Friswell: [Read](https://sipak-gh.github.io/webreader/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fsipak-gh%2Flearn-ethics%2Fmaster%2Freadings%2Fla-rochefoucauld-maxims-pg9105.epub) [File](readings/la-rochefoucauld-maxims-pg9105.epub).
 - Joel Feinberg, "Psychological Egoism," in Feinberg (ed.), *Reason and Responsibility* (many editions) **(procure yourself)**.
 - Gilbert Harman, "Moral Relativism Defended," *Philosophical Review* 84 (1975) **(procure yourself)**.
 
